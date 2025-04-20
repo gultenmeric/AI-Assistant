@@ -1,0 +1,12 @@
+faiss_cpu==1.10.0
+PyMuPDF==1.25.3
+Flask==3.1.0
+flask_cors==5.0.1
+nltk==3.8.1
+numpy==2.2.4
+pdfplumber==0.11.5
+Pillow==10.1.0
+PyPDF2==3.0.1
+pytesseract==0.3.13
+Requests==2.32.3
+sentence_transformers==3.4.1

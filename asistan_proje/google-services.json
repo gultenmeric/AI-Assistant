@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547458507282",
+    "project_id": "fir-asistan",
+    "storage_bucket": "fir-asistan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547458507282:android:e486126f1bcae56977eecb",
+        "android_client_info": {
+          "package_name": "com.example.meric"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXyVylQnIE4tMFhzW2CkOcKYgJ9-twEwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547458507282:android:09ad0b8d6f26c1c477eecb",
+        "android_client_info": {
+          "package_name": "com.rw.asistan_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXyVylQnIE4tMFhzW2CkOcKYgJ9-twEwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
